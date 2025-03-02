@@ -20,7 +20,6 @@
 #include "debug.h"
 #include "filesystem.h"
 #include "flexbuffer_json.h"
-#include "gpkey.h"
 #include "input_context.h" // IWYU pragma: keep
 #include "json.h"
 #include "json_loader.h"
